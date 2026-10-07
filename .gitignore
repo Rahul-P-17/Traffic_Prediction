@@ -7,3 +7,16 @@ dist/
 backend/traffic.db
 *.log
 .DS_Store
+
+# Large ML model files
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
+
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.pth
